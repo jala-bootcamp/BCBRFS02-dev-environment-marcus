@@ -1,0 +1,14 @@
+/workspaces/devcontainers/randomize/bin/Debug/net8.0/randomize
+/workspaces/devcontainers/randomize/bin/Debug/net8.0/randomize.deps.json
+/workspaces/devcontainers/randomize/bin/Debug/net8.0/randomize.runtimeconfig.json
+/workspaces/devcontainers/randomize/bin/Debug/net8.0/randomize.dll
+/workspaces/devcontainers/randomize/bin/Debug/net8.0/randomize.pdb
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/randomize.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/randomize.AssemblyInfoInputs.cache
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/randomize.AssemblyInfo.cs
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/randomize.csproj.CoreCompileInputs.cache
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/randomize.dll
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/refint/randomize.dll
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/randomize.pdb
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/randomize.genruntimeconfig.cache
+/workspaces/devcontainers/randomize/obj/Debug/net8.0/ref/randomize.dll
