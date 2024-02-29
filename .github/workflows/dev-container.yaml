@@ -1,0 +1,20 @@
+name: Dev Container Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (GitHub)
+        uses: actions/checkout@v3
+
+      - name: Build dev container and run randomize cli
+        uses: devcontainers/ci@v0.3
+        with:
+          runCmd: |
+            cd randomize
+            dotnet run
